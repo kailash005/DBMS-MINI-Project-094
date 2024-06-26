@@ -1,17 +1,6 @@
 # DBMS-MINI-Project
  DBMS project on topic Online Examination System
 
-<b>Technology Used:</b>
-
-<b>Front-End:</b> HTML,CSS,JavaScript
-
-<b>Back-End:</b> PHP,MySql
-
-<b>Link: <a href="https://rakeshmariyaplar.herokuapp.com/"> rakeshmariyaplar.herokuapp.com/</a></b>
-
-
-<b>Software Used:</b>WAMP
-
 ONLINE EXAMINATION SYSTEM is a web-based examination system where
 examinations are given online. either through the internet or intranet using computer
 system. The main goal of this online examination system is to effectively evaluate the
